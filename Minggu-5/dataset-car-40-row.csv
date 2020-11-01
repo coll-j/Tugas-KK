@@ -1,0 +1,41 @@
+﻿Make;Year;Engine Fuel Type;Engine HP;Engine Cylinders;Transmission Type;Driven_Wheels;Number of Doors;Market Category;Vehicle Size;Vehicle Style;highway MPG;city mpg;Popularity;MSRP
+Audi;Old;regular unleaded;Low;6;MANUAL;front wheel drive;4;Luxury;Midsize;Sedan;Low;Low;High;Cheap
+Audi;Old;regular unleaded;Low;6;MANUAL;front wheel drive;4;Luxury;Midsize;Sedan;Low;Low;High;Cheap
+Audi;Old;regular unleaded;Low;6;AUTOMATIC;all wheel drive;4;Luxury;Midsize;Wagon;Low;Low;High;Cheap
+Audi;Old;regular unleaded;Low;6;AUTOMATIC;front wheel drive;4;Luxury;Midsize;Sedan;Low;Low;High;Cheap
+Audi;New;diesel;Low;4;AUTOMATIC;front wheel drive;4;Luxury;Compact;Sedan;High;High;High;Cheap
+Audi;New;premium unleaded;Medium;4;AUTOMATIC;all wheel drive;4;Luxury;Compact;Sedan;Medium;Medium;High;Cheap
+BMW;New;premium unleaded;High;6;MANUAL;rear wheel drive;2;Luxury;Compact;Convertible;Medium;Low;High;Expensive
+BMW;New;premium unleaded;High;6;MANUAL;rear wheel drive;2;High-Performance;Compact;Coupe;Medium;Low;High;Expensive
+BMW;New;premium unleaded;High;6;MANUAL;rear wheel drive;2;Luxury;Compact;Convertible;Low;Low;High;Expensive
+BMW;New;premium unleaded;High;6;MANUAL;rear wheel drive;2;Luxury;Compact;Coupe;Medium;Medium;High;Expensive
+BMW;New;premium unleaded;Medium;4;AUTOMATIC;all wheel drive;4;Luxury;Midsize;4dr Hatchback;Medium;Medium;High;Expensive
+BMW;New;premium unleaded;High;6;AUTOMATIC;all wheel drive;4;Luxury;Midsize;4dr Hatchback;Medium;Medium;High;Expensive
+BMW;New;premium unleaded;Medium;4;AUTOMATIC;all wheel drive;4;Luxury;Midsize;Wagon;Medium;Medium;High;Expensive
+BMW;New;premium unleaded;Medium;4;AUTOMATIC;all wheel drive;2;Luxury;Compact;Convertible;Medium;Medium;High;Expensive
+BMW;New;premium unleaded;Medium;4;AUTOMATIC;all wheel drive;2;High-Performance;Compact;Coupe;Medium;Medium;High;Expensive
+BMW;New;premium unleaded;Low;4;AUTOMATIC;rear wheel drive;4;Luxury;Midsize;Sedan;High;Medium;High;Cheap
+Chrysler;New;regular unleaded;High;6;AUTOMATIC;rear wheel drive;4;High-Performance;Large;Sedan;Medium;Low;Low;Expensive
+Chrysler;New;regular unleaded;High;6;AUTOMATIC;rear wheel drive;4;High-Performance;Large;Sedan;Medium;Low;Low;Expensive
+Chrysler;New;regular unleaded;Medium;4;AUTOMATIC;front wheel drive;4;High-Performance;Midsize;Sedan;High;Medium;Low;Cheap
+Chrysler;New;regular unleaded;High;6;AUTOMATIC;all wheel drive;4;High-Performance;Midsize;Sedan;Medium;Low;Low;Cheap
+FIAT;New;premium unleaded;Low;4;MANUAL;rear wheel drive;2;High-Performance;Compact;Convertible;High;High;Low;Cheap
+FIAT;New;premium unleaded;Low;4;MANUAL;rear wheel drive;2;High-Performance;Compact;Convertible;High;High;Low;Cheap
+Mazda;New;regular unleaded;Low;4;MANUAL;front wheel drive;4;Hatchback;Compact;4dr Hatchback;High;High;Low;Cheap
+Mazda;New;regular unleaded;Low;4;MANUAL;front wheel drive;4;Hatchback;Compact;4dr Hatchback;High;High;Low;Cheap
+Mercedes-Benz;Old;diesel;Low;5;AUTOMATIC;rear wheel drive;4;Luxury;Midsize;Sedan;Medium;Medium;Low;Cheap
+Mercedes-Benz;Old;regular unleaded;Low;4;MANUAL;rear wheel drive;4;Luxury;Compact;Sedan;Medium;Low;Low;Cheap
+Mercedes-Benz;Old;regular unleaded;Low;6;MANUAL;rear wheel drive;4;Luxury;Compact;Sedan;Low;Low;Low;Cheap
+Mercedes-Benz;Old;regular unleaded;Low;6;AUTOMATIC;rear wheel drive;4;Luxury;Large;Sedan;Low;Low;Low;Cheap
+Mercedes-Benz;Old;regular unleaded;Low;6;AUTOMATIC;rear wheel drive;4;Luxury;Midsize;Wagon;Low;Low;Low;Cheap
+Mercedes-Benz;Old;diesel;Low;5;AUTOMATIC;rear wheel drive;4;Luxury;Midsize;Sedan;Medium;Medium;Low;Cheap
+Mercedes-Benz;Old;diesel;Low;5;AUTOMATIC;rear wheel drive;4;Luxury;Midsize;Sedan;Medium;Medium;Low;Cheap
+Mercedes-Benz;Old;regular unleaded;Medium;6;AUTOMATIC;rear wheel drive;4;Luxury;Large;Sedan;Low;Low;Low;Cheap
+Nissan;Old;regular unleaded;Low;4;MANUAL;front wheel drive;2;High-Performance;Compact;Coupe;High;High;Medium;Cheap
+Nissan;Old;regular unleaded;Low;4;MANUAL;rear wheel drive;2;Performance;Compact;Coupe;Low;Medium;Medium;Cheap
+Nissan;New;regular unleaded;High;6;AUTOMATIC;rear wheel drive;2;High-Performance;Compact;Convertible;Low;Low;Medium;Expensive
+Nissan;New;premium unleaded;High;6;MANUAL;rear wheel drive;2;High-Performance;Compact;Convertible;Low;Low;Medium;Expensive
+Nissan;New;premium unleaded;High;6;AUTOMATIC;rear wheel drive;2;High-Performance;Compact;Coupe;Medium;Low;Medium;Expensive
+Nissan;New;regular unleaded;High;6;AUTOMATIC;rear wheel drive;2;High-Performance;Compact;Coupe;Low;Low;Medium;Cheap
+Volvo;Old;regular unleaded;Low;4;AUTOMATIC;rear wheel drive;4;Luxury;Midsize;Wagon;Low;Low;Low;Cheap
+Volvo;Old;regular unleaded;Low;4;MANUAL;rear wheel drive;4;Luxury;Midsize;Sedan;Medium;Low;Low;Cheap
