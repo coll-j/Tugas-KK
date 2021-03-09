@@ -6,3 +6,4 @@ gituhub berisi semua tugas matakuliah kecerdasan komputasional kelas B tahun 202
 - M. Farras Pangestu - 05111840000134 
 - Excel  Deo C - 05111840000117
 
+I am editing the README file. Adding some more details about the project description.
